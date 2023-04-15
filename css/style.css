@@ -1,0 +1,39 @@
+#form{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.box{
+    width: 200px;
+    height: 190px;
+    border-radius: 10px;
+    background-color: rgb(204, 225, 225);
+    padding-top: 20px;
+}
+.btn{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    color: white;
+    font-size: 7px;
+    padding: 7px 9px;
+    width: 160px;
+    border: none;
+    border-radius: 3px;
+    background-color: blue;
+}
+.rez-1{
+    width: 170px;
+    height: 18px;
+    background-color: aqua;
+    border-radius: 3px;
+    margin-left: 15px;
+}
+.rez-2{
+    width: 170px;
+    height: 18px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 3px;
+}
